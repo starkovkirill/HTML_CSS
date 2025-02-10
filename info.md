@@ -1,1 +1,0 @@
-Моя папка с проектом на курсе HTML/CSS в PurpleSchool

@@ -1,0 +1,40 @@
+h1 {
+    color: #333333;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 36px;
+    line-height: 49.03px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+p {
+    color: #666666;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 24.51px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+::placeholder {
+    color: #999999;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 21.79px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+button {
+    width: 394px;
+    height: 44px;
+    background-color: #089FE0;
+    color: #FFFFFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    line-height: 24.51px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+a {}
